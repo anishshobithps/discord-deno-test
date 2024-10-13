@@ -1,6 +1,6 @@
 {
   "tasks": {
-    "dev": "deno run --watch --allow-all src/index.ts"
+    "dev": "deno run --watch --allow-all src/main.ts"
   },
   "imports": {
     "@sapphire/discord.js-utilities": "npm:@sapphire/discord.js-utilities@^7.3.0",
